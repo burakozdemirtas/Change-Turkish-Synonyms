@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center"> Change Turkish Synonyms / Türkçe Eş Anlamlı Kelime Değişimi </h1>
+<h1 align="center">Python'da Türkçe Eş Anlamlı Kelime Değişimi </h1>
 <p align="justify">
 
 Türkçe doğal dil işleme kütüphaneleri genellikle İngilizce dili için geliştirilmiş olan kütüphanelerin Türkçe versiyonlarıdır. Ancak, Türkçenin dil yapısı İngilizce ile farklılık gösterdiği için bu kütüphaneler bazı sorunlar yaşayabilir. Bu nedenle, Türkçe doğal dil işleme uygulamalarında eş anlamlı kelimelerin belirlenmesi zor olabilir. Buna çözüm olarak araştırmalar yaptım ve <b>Yusuf Ustanın github eş anlamlı kelimeler reposunu buldum.</b> (json, csv, xml <a href="www.github.com"> <b> REPOYU GÖRMEK İÇİN TIKLAYINIZ </b></a>) Bu repoyu Pythona uyarlayıp Eş anlamlı kelime girince, sonucunda eş anlamını bulan kodu yazdım.</p>
