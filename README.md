@@ -14,7 +14,7 @@ Natural language processing libraries for Turkish are generally the Turkish vers
 *  [:hash: Kod Nasıl Çalışır?/How does the code work?](#hash-kod-nasıl-çalışır-how-does-the-code-work)
 
 # :fire: Geliştirici / Developer
-| Adı Soyadı | 
+| Adı Soyadı / Name Surname | 
 | :--- | 
 | [Burak ÖZDEMİRTAŞ](https://github.com/burakozdemirtas) |
 
